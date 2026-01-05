@@ -15,6 +15,11 @@
 
 <br>
 
+### 📖 문제 리스트
+[코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon?tab=readme-ov-file)
+
+<br>
+
 ### 📂 Repository 구조
 
 `주차/문제명/이름.언어` 형식
