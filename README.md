@@ -22,7 +22,7 @@
 
 | 요일 | 문제 번호 | 문제 이름 | 난이도 (Tier) |
 | --- | --- | --- | --- |
-| 월 | [2346](https://www.acmicpc.net/problem/2346) | [풍선 터뜨리키](https://www.acmicpc.net/problem/2346) | **실버 3** |
+| 월 | [2346](https://www.acmicpc.net/problem/2346) | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | **실버 3** |
 | 화 | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | **실버 3** |
 | 수 | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) | **실버 2** |
 | 목 | [1620](https://www.acmicpc.net/problem/1620) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | **실버 4** |
